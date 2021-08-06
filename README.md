@@ -76,4 +76,4 @@ Este projeto está sobe a [LICENÇA MIT](https://opensource.org/licenses/MIT)
 
 ---
 
-### Desenvolvido 💜 by Elisio Wander
+### Desenvolvido 💜 by Raul Sigoli
